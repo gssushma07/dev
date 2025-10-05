@@ -1,0 +1,35 @@
+{
+    "jobs":[
+        {
+            "id":1,
+            "title":"Sr. React Developer",
+            "Salary" : 50000,
+            "location": "Londan UK"
+        },
+        {
+            "id":2,
+            "title":"Frontend Developer",
+            "Salary" : 40000,
+            "location": "San Francisco US"
+        },
+        {
+            "id":3,
+            "title":"Full Stack Developer",
+            "Salary" : 60000,
+            "location": "Banglore IN"
+        },
+        {
+            "id":4,
+            "title":"Product Manager",
+            "Salary" : 90000,
+            "location": "Los Angeles US"
+        },
+        {
+            "id":5,
+            "title":"UI Designer",
+            "Salary" : 40000,
+            "location": "Mumbai IN"
+        }
+
+    ]
+}
